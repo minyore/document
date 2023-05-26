@@ -16,6 +16,7 @@ cd .. // 상위 디렉토리 이동
 cd ~ // 홈 디렉토리 이동
 cd - // 이전 경로로 이동
 ls // 현재 위치 파일 목록 조회
+rm - r [dirtory name] // 해당 디렉토리 삭제
 mkdir [dirtory name] // 디렉토리 생성 
 ```
 
