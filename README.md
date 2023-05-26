@@ -10,9 +10,11 @@ git remote
 git remote -v // 저장소 위치 확인
 
 pwd // 현재 디렉토리 위치 확인
-cd/root // root 디렉토리 이동
-cd.. // 상위 디렉토리 이동
-cd~ // 홈 디렉토리 이동
+cd [dirtory name] // 해당 디렉토리 이동
+cd / // root 디렉토리 이동
+cd .. // 상위 디렉토리 이동
+cd ~ // 홈 디렉토리 이동
+cd - // 이전 경로로 이동
 ls // 현재 위치 파일 목록 조회
 mkdir [dirtory name] // 디렉토리 생성 
 ```
